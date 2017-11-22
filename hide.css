@@ -1,0 +1,16 @@
+div {
+	margin:5px; 
+	border:3px solid red;
+}
+
+div img {
+	visibility: visible;
+}
+
+#second {
+	visibility: hidden;
+}
+
+#third {
+	visibility:  hidden;
+}
