@@ -3,14 +3,6 @@ div {
 	border:3px solid red;
 }
 
-div img {
-	visibility: visible;
-}
-
-#second {
-	visibility: hidden;
-}
-
-#third {
-	visibility:  hidden;
+#first p {
+	font-size:  2em;
 }
